@@ -61,9 +61,7 @@ This project aims to predict the **closing price of Yes Bank's stock** using **r
 - Jupyter Notebook
 - Required libraries: `pandas`, `numpy`, `matplotlib`, `scikit-learn`, `xgboost`
 
-## 📜 License
 
-This project is open-source and available under the **MIT License**.
 
 ---
 
